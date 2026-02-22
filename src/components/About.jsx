@@ -50,7 +50,7 @@ export default function About() {
           <div className="about-image-wrapper">
             <div className="about-image-card">
               <div className="about-avatar">
-                <img src="/ProfileImage.jpg" alt="Jatin Verma" />
+                <img src="/avatar.png" alt="Jatin Verma" />
               </div>
             </div>
             <div className="about-image-decoration" />
