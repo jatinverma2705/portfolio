@@ -80,7 +80,7 @@ export default function About() {
 
             <div className="about-stats">
               <div className="stat-item">
-                <span className="stat-number">10+</span>
+                <span className="stat-number">15+</span>
                 <span className="stat-label">Projects Built</span>
               </div>
               <div className="stat-item">
